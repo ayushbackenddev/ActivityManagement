@@ -1,0 +1,29 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+.table-container {
+    max-width: 600px;
+    margin: auto;
+}
+.btn-custom {
+    background-color: #888888;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+.input-group-text {
+    background-color: #888888;
+    color: white;
+}
+.filter-btn {
+    margin: 0 5px;
+}
+table {
+    background-color: #1c1c1c;
+}
+th, td {
+    color: white;
+    border-color: #555555;
+}
